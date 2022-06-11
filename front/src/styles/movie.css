@@ -1,0 +1,77 @@
+.box {
+    background-color: #000;
+    font-family: "Lobster", sans-serif;
+    overflow: hidden;
+    position: relative;
+    border-radius: 20px;
+  }
+  .box > img {
+    width: 100%;
+    height: auto;
+    transition: all 0.3s ease-in-out;
+  }
+  .box:hover > img {
+    opacity: 0.5;
+    filter: blur(5px);
+    transform: scale(1.05);
+  }
+  .box .box-content {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    padding: 5px 0 0;
+    transform: translateY(-50%);
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 2;
+  }
+  .box .box-content .overlay-img {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .box .box-content .overlay-img img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transform: translateY(80%);
+    transition: all 0.3s ease 0.1s;
+  }
+  .box:hover .box-content .overlay-img img {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .box .box-content .inner-content {
+    background-color: #000;
+    padding: 10px 15px;
+    opacity: 0;
+    transform: scaleY(1.5);
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  .box:hover .box-content .inner-content {
+    opacity: 1;
+    transform: scaleY(1);
+  }
+  .box .title {
+    font-size: 22px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 0;
+    color: #a6acb8;
+  }
+  .box .post {
+    font-family: "Hind Siliguri", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  }
+  @media only screen and (max-width: 990px) {
+    .box {
+      margin: 0 0 30px;
+    }
+  }
+  

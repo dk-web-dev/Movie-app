@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "629f8d438e78ef9c6da7e40e"
+  },
+  "Mtitle": "The Adam Project",
+  "Mtype": "Hollywood",
+  "Mdesc": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+  "Myear": 2020,
+  "Mduration": "106",
+  "Mrating": "8.0",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/IE8HIsIrq4o\n"
+},{
+  "_id": {
+    "$oid": "629f8ecd8e78ef9c6da7e415"
+  },
+  "Mtitle": "prehistoric planet",
+  "Mtype": "Hollywood",
+  "Mdesc": "Experience the wonders of our world like never before in this epic docuseries from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+  "Myear": 2022,
+  "Mduration": "40",
+  "Mrating": "8.0",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/vnoNeMlNeD0\n"
+},{
+  "_id": {
+    "$oid": "629fb0458e78ef9c6da7e547"
+  },
+  "Mtitle": "All the Old Knives",
+  "Mtype": "Hollywood",
+  "Mdesc": "When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.",
+  "Myear": 2021,
+  "Mduration": "120",
+  "Mrating": "8.5",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/6s7NziAetNs"
+},{
+  "_id": {
+    "$oid": "629fb0d58e78ef9c6da7e54b"
+  },
+  "Mtitle": "Bāhubali: The Beginning",
+  "Mtype": "Bollywood",
+  "Mdesc": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+  "Myear": 2015,
+  "Mduration": "158",
+  "Mrating": "10",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/sOEg_YZQsTI"
+},{
+  "_id": {
+    "$oid": "629fb1378e78ef9c6da7e550"
+  },
+  "Mtitle": "No Exit ",
+  "Mtype": "Hollywood",
+  "Mdesc": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terrifying struggle to identify who among them is the kidnapper",
+  "Myear": 2022,
+  "Mduration": "96",
+  "Mrating": "6",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/GFvupyiNEz0"
+},{
+  "_id": {
+    "$oid": "62a460d0db7d1565511353eb"
+  },
+  "Mtitle": "K.G.F: Chapter 2",
+  "Mtype": "Bollywood",
+  "Mdesc": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+  "Myear": 2022,
+  "Mduration": "168",
+  "Mrating": "9.7",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+  "__v": 0,
+  "Movielink": "https://www.youtube.com/embed/Qah9sSIXJqk\n"
+},{
+  "_id": {
+    "$oid": "62a462df102fb89949d46e0e"
+  },
+  "Mtitle": "Pushpa: The Rise - Part 1",
+  "Mtype": "Bollywood",
+  "Mdesc": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
+  "Myear": 2021,
+  "Mduration": "180",
+  "Mrating": "9.9",
+  "Mimage": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mFMEZnYXlDTbiGGFOJEotjbGN6T.jpg",
+  "Movielink": "https://www.youtube.com/embed/Q1NKMPhP8PY",
+  "__v": 0
+}]

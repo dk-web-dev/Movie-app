@@ -1,0 +1,24 @@
+.singlemovietitle {
+  color: #fff;
+}
+.movie-col {
+  height: 40% !important;
+  width: 40% !important; 
+}
+.singleMovie {
+  width: 100%;
+  height: 40%;
+}
+.movietitle-css {
+  background-color: #999966;
+  margin-top:5px;
+  color: #fff;
+}
+.playbutton{
+  width: 100%;
+  padding:12px;
+}
+.btn-AddFavourite {
+  background-color: #999966;
+  margin-top: 3px;
+}
